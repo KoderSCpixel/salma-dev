@@ -19,5 +19,5 @@
 
 ## 📫 Reach me:
 
-- Email: your@email.com
+- Email: salmachaoui227@gmail.com
 - Portfolio (soon)
