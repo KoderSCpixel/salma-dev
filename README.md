@@ -21,4 +21,5 @@
 
 - Email: salmachaoui227@gmail.com
 - Portfolio (soon)
-![Salma's GitHub stats](https://github-readme-stats.vercel.app/api?KoderSCpixel=_icons=true&theme=tokyonight)
+![Salma's GitHub stats](https://github-readme-stats.vercel.app/api?username=KoderSCpixel&show_icons=true&theme=tokyonight)
+
