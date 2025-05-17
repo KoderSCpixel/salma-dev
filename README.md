@@ -21,6 +21,25 @@
 
 - Email: salmachaoui227@gmail.com
 - Portfolio (soon)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ![Salma's GitHub stats](https://github-readme-stats.vercel.app/api?username=KoderSCpixel&show_icons=true&theme=tokyonight)
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
